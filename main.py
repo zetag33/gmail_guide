@@ -3,9 +3,9 @@ import ssl
 from email.message import EmailMessage
 import smtplib
 
-email_sender = 'cryptobot124@gmail.com'
-email_password = 'mmgrrargyemvatpf'
-email_receiver='zetag33@gmail.com'
+email_sender = 'your_email@gmail.com'
+email_password = 'your_password'
+email_receiver='receiver_email@gmail.com'
 
 subject = 'Check out'
 body = '''Just posted a new video'''
